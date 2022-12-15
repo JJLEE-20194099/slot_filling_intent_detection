@@ -1,0 +1,1 @@
+This is a project about how i learn nlp by handling slot filling and intent detection tasks.
